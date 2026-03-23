@@ -3,6 +3,6 @@
 
 Lenguajes de Programación
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,windows,visualstudio,github,)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,sqlserver,dotnet,azure,visualstudio,github,windows&perline=)
 
 
