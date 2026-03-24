@@ -1,4 +1,4 @@
-## # JOHAN MAURICIO BERNATE AYA  👋
+## # JOHAN MAURICIO BERNATE AYA 
 
 
 Lenguajes de Programación
