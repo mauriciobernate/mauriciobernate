@@ -9,5 +9,5 @@ Lenguajes de Programación
 
 Otros
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,vscode=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,vscode,=true)
 
