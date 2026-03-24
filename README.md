@@ -12,7 +12,8 @@ Otros
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,vscode,=true)
 
 
-![Static Badge](https://img.shields.io/badge/C%23-Sql-Server)
+![Static Badge](https://img.shields.io/badge/C%23-Sql-Server)  ![Static Badge](https://img.shields.io/badge/.Net%20Blazor-Double%20underscore%20__?style=plastic&logo=GH)
+
 
 
 
