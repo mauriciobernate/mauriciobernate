@@ -1,7 +1,7 @@
-## # JOHAN MAURICIO BERNATE AYA 👋 🇨🇴
+## # JOHAN MAURICIO BERNATE AYA 👋
 
 
-Lenguajes de Programación 👋 🇨🇴
+Lenguajes de Programación 👋 
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,sqlserver,dotnet,blazor,visualstudio,azure,github,windows&perline=)
 
