@@ -7,7 +7,7 @@ Lenguajes de Programación 🚀
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,js,html,git,githubcopilot,githubdesktop,javascript=true)
 
-Otros 🚀
+## Otros 🚀
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,vscode,=true)
 
