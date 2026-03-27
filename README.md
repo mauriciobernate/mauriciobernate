@@ -5,7 +5,7 @@ Lenguajes de Programación 🚀
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,sqlserver,dotnet,blazor,visualstudio,github,windows,azure&perline=)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,js,html,edge,git,githubcopilot,githubdesktop,javascript=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,js,html,git,githubcopilot,githubdesktop,javascript=true)
 
 Otros 🚀
 
