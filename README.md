@@ -3,7 +3,7 @@
 
 Lenguajes de Programación 🚀 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,github&perline=)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=github&perline=)
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,js,html,git,githubcopilot,githubdesktop,javascript=true)
 
