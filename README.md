@@ -11,8 +11,8 @@ Lenguajes de Programación 🚀
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome,edge,gmail,outlook,=true)
 
-![Static Badge](https://img.shields.io/badge/Laravel-RRR?style=flat-square&label=PHP)
-![Static Badge](https://img.shields.io/badge/Mysql-RRR?style=flat-square&label=Laravel&labelColor=255%2C%200%2C%200&color=rgb(255%2C%200%2C%200))
+![Static Badge](https://img.shields.io/badge/.NET-RRR?style=flat-square&label=C#)
+![Static Badge](https://img.shields.io/badge/SQL.SERVER-RRR?style=flat-square&label=BLAZOR&labelColor=255%2C%200%2C%200&color=rgb(255%2C%200%2C%200))
 
 
 
