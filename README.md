@@ -5,7 +5,7 @@ Lenguajes de Programación 🚀
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,&perline=)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,chartjs,jquery,js,html,css,git,npm,github,githubdesktop,javascript=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,chartjs,jquery,js,html,css,git,github,githubdesktop,javascript=true)
 
 ## Otros 🚀
 
