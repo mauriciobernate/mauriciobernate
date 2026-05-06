@@ -12,15 +12,8 @@ Lenguajes de Programación 🚀
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome,edge,gmail,outlook,=true)
 
 ‎
- Otros 🚀 
  
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=microsoftcopilot,vscode,=true)
-
-
-
-
-
-Programación 🚀
+## Programación 🚀
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=chrome,edge,gmail,outlook,=true)
 
