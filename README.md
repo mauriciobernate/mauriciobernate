@@ -3,9 +3,9 @@
 
 Lenguajes de Programación 🚀 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cs,sqlserver,dotnet,blazor,vscode,&perline=)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,cs,sqlserver,dotnet,blazor,vscode,&perline=)
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,githubdesktop,javascript=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mariadb,mysql,git,github,githubdesktop,javascript=true)
 
 ## Otros 🚀
 
